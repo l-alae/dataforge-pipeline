@@ -70,16 +70,6 @@ A fully containerized, distributed data engineering system designed to simulate 
 
 ---
 
-## 👥 Contributions
-
-This project was originally developed collaboratively with [Friend’s Name].  
-Alae contributed to:
-
-- Designing the scraping and ingestion logic
-- Defining the pipeline architecture
-- Planning the container orchestration
-
----
 
 ## 📬 Contact
 
